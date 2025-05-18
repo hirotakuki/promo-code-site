@@ -1,0 +1,46 @@
+<form id="promoForm">
+  <input type="text" name="date" placeholder="日付" required>
+  <input type="text" name="category" placeholder="カテゴリ" required>
+  <label for="category">カテゴリ:</label>
+  <select id="category" name="category" required>
+    <option value="">-- 選択してください --</option>
+    <option value="動画配信">動画配信</option>
+    <option value="音楽">音楽</option>
+    <option value="フード・デリバリー">フード・デリバリー</option>
+    <option value="ショッピング">ショッピング</option>
+    <option value="交通・モビリティ">交通・モビリティ</option>
+    <option value="金融・ポイント">金融・ポイント</option>
+    <option value="教育・学習">教育・学習</option>
+    <option value="ゲーム・アプリ">ゲーム・アプリ</option>
+    <option value="美容・健康">美容・健康</option>
+    <option value="旅行・ホテル">旅行・ホテル</option>
+    <option value="その他">その他</option>
+    </select>
+
+  <input type="text" name="code" placeholder="プロモコード" required>
+  <textarea name="description" placeholder="説明" required></textarea>
+  <button type="submit">送信</button>
+</form>
+
+<script>
+  document.getElementById('promoForm').addEventListener('submit', async function (e) {
+    e.preventDefault();
+    const formData = new FormData(e.target);
+    const jsonData = {};
+    formData.forEach((v, k) => jsonData[k] = v);
+
+    const response = await fetch("https://script.google.com/macros/s/AKfycbxKD5J6dyVR4A23WDbZxrCXW3lX7hRzGN519-j5QTYWe0ctZe8HD-7gTe-xqePaMAsgTg/exec", {
+      method: "POST",
+      body: JSON.stringify(jsonData),
+      headers: {
+        "Content-Type": "application/json"
+      }
+    });
+
+    if (response.ok) {
+      alert("投稿が完了しました！");
+    } else {
+      alert("投稿に失敗しました。");
+    }
+  });
+</script>
