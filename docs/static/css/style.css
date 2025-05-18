@@ -1,0 +1,37 @@
+form.promo-form {
+  max-width: 600px;
+  margin: 0 auto;
+  background: #fff;
+  padding: 2rem;
+  border-radius: 10px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+form.promo-form input[type="text"],
+form.promo-form textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 1.2rem;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+form.promo-form button {
+  padding: 10px 20px;
+  background: #28a745;
+  color: white;
+  border: none;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+form.promo-form button:hover {
+  background: #218838;
+}
+
+h1.form-title {
+  text-align: center;
+  margin-bottom: 2rem;
+}
