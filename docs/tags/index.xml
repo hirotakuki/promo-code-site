@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on My New Hugo Site</title>
-    <link>https://example.org/tags/</link>
+    <link>https://hirotakuki.github.io/promo-code-site/tags/</link>
     <description>Recent content in Tags on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 16 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hirotakuki.github.io/promo-code-site/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ubereats</title>
-      <link>https://example.org/tags/ubereats/</link>
+      <link>https://hirotakuki.github.io/promo-code-site/tags/ubereats/</link>
       <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/ubereats/</guid>
+      <guid>https://hirotakuki.github.io/promo-code-site/tags/ubereats/</guid>
       <description></description>
     </item>
     <item>
       <title>クーポン</title>
-      <link>https://example.org/tags/%E3%82%AF%E3%83%BC%E3%83%9D%E3%83%B3/</link>
+      <link>https://hirotakuki.github.io/promo-code-site/tags/%E3%82%AF%E3%83%BC%E3%83%9D%E3%83%B3/</link>
       <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/%E3%82%AF%E3%83%BC%E3%83%9D%E3%83%B3/</guid>
+      <guid>https://hirotakuki.github.io/promo-code-site/tags/%E3%82%AF%E3%83%BC%E3%83%9D%E3%83%B3/</guid>
       <description></description>
     </item>
   </channel>

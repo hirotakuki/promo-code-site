@@ -2,30 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://hirotakuki.github.io/promo-code-site/categories/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://hirotakuki.github.io/promo-code-site/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/</loc>
+    <loc>https://hirotakuki.github.io/promo-code-site/posts/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://hirotakuki.github.io/promo-code-site/tags/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/test-code/</loc>
+    <loc>https://hirotakuki.github.io/promo-code-site/posts/test-code/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/ubereats/</loc>
+    <loc>https://hirotakuki.github.io/promo-code-site/tags/ubereats/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/%E3%82%AF%E3%83%BC%E3%83%9D%E3%83%B3/</loc>
+    <loc>https://hirotakuki.github.io/promo-code-site/tags/%E3%82%AF%E3%83%BC%E3%83%9D%E3%83%B3/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/%E3%83%95%E3%83%BC%E3%83%89/</loc>
+    <loc>https://hirotakuki.github.io/promo-code-site/categories/%E3%83%95%E3%83%BC%E3%83%89/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/uploadform/</loc>
+    <loc>https://hirotakuki.github.io/promo-code-site/posts/uploadform/</loc>
   </url>
 </urlset>

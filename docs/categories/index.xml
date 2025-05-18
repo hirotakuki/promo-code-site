@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on My New Hugo Site</title>
-    <link>https://example.org/categories/</link>
+    <link>https://hirotakuki.github.io/promo-code-site/categories/</link>
     <description>Recent content in Categories on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 16 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hirotakuki.github.io/promo-code-site/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>フード</title>
-      <link>https://example.org/categories/%E3%83%95%E3%83%BC%E3%83%89/</link>
+      <link>https://hirotakuki.github.io/promo-code-site/categories/%E3%83%95%E3%83%BC%E3%83%89/</link>
       <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/%E3%83%95%E3%83%BC%E3%83%89/</guid>
+      <guid>https://hirotakuki.github.io/promo-code-site/categories/%E3%83%95%E3%83%BC%E3%83%89/</guid>
       <description></description>
     </item>
   </channel>
