@@ -1,5 +1,4 @@
 # ビルド出力（手動または自動生成される）
-/public/
 /resources/
 
 # Node.js 関連（もし使っていれば）
@@ -23,3 +22,5 @@ _netlify/
 
 # Hugo cache（最近のバージョンで使用されることがある）
 /hugo_stats.json
+
+Deploy ID.txt
